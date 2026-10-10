@@ -1673,27 +1673,27 @@ foreach ($alerts as $alert) {
 ## 📞 Support & Contact
 
 ### Technical Support
-- **Email**: support@templemanagement.com
+- **Email**: support@vedagramam.com
 - **Phone**: +91 98765 43210
 - **Hours**: 9 AM - 6 PM IST (Monday - Saturday)
 
 ### Documentation
-- **Online Docs**: https://docs.templemanagement.com
+- **Online Docs**: https://docs.vedagramam.com
 - **Video Tutorials**: https://youtube.com/@templemanagement
-- **FAQ**: https://templemanagement.com/faq
+- **FAQ**: https://vedagramam.com/faq
 
 ### Community
-- **Forum**: https://forum.templemanagement.com
+- **Forum**: https://forum.vedagramam.com
 - **WhatsApp Group**: [Join Link]
 - **Telegram Channel**: [Join Link]
 
 ### Bug Reports
 - **GitHub Issues**: https://github.com/temple-management/issues
-- **Email**: bugs@templemanagement.com
+- **Email**: bugs@vedagramam.com
 
 ### Feature Requests
-- **Form**: https://templemanagement.com/feature-request
-- **Email**: features@templemanagement.com
+- **Form**: https://vedagramam.com/feature-request
+- **Email**: features@vedagramam.com
 
 ---
 
@@ -1705,7 +1705,7 @@ Copyright © 2024 Temple Management System. All rights reserved.
 
 This software and associated documentation files (the "Software") are proprietary and confidential. Unauthorized copying, distribution, or use of this Software is strictly prohibited.
 
-For licensing inquiries, contact: license@templemanagement.com
+For licensing inquiries, contact: license@vedagramam.com
 
 ---
 
@@ -1720,4 +1720,4 @@ For licensing inquiries, contact: license@templemanagement.com
 
 **End of Documentation**
 
-*For the latest updates, visit: https://templemanagement.com*
+*For the latest updates, visit: https://vedagramam.com*
